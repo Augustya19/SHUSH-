@@ -27,7 +27,7 @@
 - Node.js & npm
 
 ### Clone and Run
-git clone https://github.com/Augustya19/SHUSH.git
+git clone https://github.com/Augustya19/SHUSH-.git
 
 cd Shush
 
